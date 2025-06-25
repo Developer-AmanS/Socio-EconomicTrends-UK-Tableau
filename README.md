@@ -1,4 +1,5 @@
 📊 **Socio-Economic Trends in England & Wales: Visual Analytics & Bayesian Insights**
+
 🚀 **Project Overview**
 
 Welcome to a deep dive into the socio-economic landscape of England and Wales!
