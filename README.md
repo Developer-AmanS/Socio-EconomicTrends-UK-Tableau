@@ -108,3 +108,19 @@ Feedback:
 ⚠️ Some performance issues noted
 
 🏷️ Legends and tooltips improved for clarity
+
+![Screenshot 2025-06-24 141353](https://github.com/user-attachments/assets/6ae29bd6-d894-448a-af75-d56a561fb84b)
+
+![Screenshot 2025-06-24 141409](https://github.com/user-attachments/assets/6ab28d6c-b7d5-4c49-a4d6-e5d9ac83bbff)
+
+![Screenshot 2025-06-24 141422](https://github.com/user-attachments/assets/a605e8eb-4168-4c1f-a0b7-538cbc1a83fa)
+
+![Screenshot 2025-06-24 141435](https://github.com/user-attachments/assets/46266465-fb1e-4663-98d5-1f86a977284b)
+
+![Screenshot 2025-06-24 141448](https://github.com/user-attachments/assets/a5b4c5fc-a1a5-4275-ac14-927a658a42c0)
+
+
+
+
+
+
